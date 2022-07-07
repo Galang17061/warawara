@@ -29,6 +29,6 @@
         "dropzone": "^5.5.1",
         "froala-editor": "^3.0.5",
         "izitoast": "^1.4.0",
-        "moment": "^2.24.0"
+        "moment": "^2.29.4"
     }
 }
